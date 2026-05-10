@@ -187,6 +187,7 @@ header nav .toggle-menu {
     background-size: cover;
     display: flex;
     align-items: center;
+	color:;
 }
 .landing .overlay {
     width: 100%;
